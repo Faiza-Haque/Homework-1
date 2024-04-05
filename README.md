@@ -7,7 +7,7 @@ Challenge 01 - due 04/4/24 Completed by Faiza Haque for UCB Extension Coding Boo
 [deployed link](https://faiza-haque.github.io/Homework-1/)
 
 ## Screenshot of Project
-![screenshot of hw 1](C:\Users\faiza\bootcamp\Homework-1\assets\images\brand-awareness.png)
+![screenshot of hw 1](./assets/images/Homework-1.png)
 
 # User Story (as given in Source Material for this Project)
 AS A marketing agency
